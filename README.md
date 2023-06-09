@@ -9,4 +9,4 @@ Hi! I am currently a student at Flatiron School learning JavaScript, React, Pyth
 - **Tennis**: I enjoy playing tennis. I played throughout High School and College, **FUN FACT**: I learned shot put in College and still throw today. 
 - **Reading**: I may not be great with book clubs but I will not deny a good recommended book. I enjoy reading daily.
 - **Meet Ups**:  I've grown a liking to finding random meet-ups in NYC and attending them. 
-- **Foodie**: I enjoy cooking but can't help but share that NYC has a plethora of restaurants and dining that I cannot resist.
+- **Foodie**: I enjoy cooking but can't help to share that NYC has a plethora of restaurants and dining that I cannot resist.
