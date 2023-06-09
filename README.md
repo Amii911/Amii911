@@ -2,8 +2,8 @@
 Hi! I am currently a student at Flatiron School learning JavaScript, React, Python, Flask, HTML, CSS, and SQL. I have a passion for problem-solving, thinking critically, learning, collaborating with other coders,  and spending countless hours debugging.  
 
 ## Projects:
-- **[Beers Cheers] (https://github.com/Amii911/phase-1-project)** | This is the first project I've coded and most proud of. 
-- **[Bloggin BLog] (https://github.com/Amii911/bloggin-blog)** |  This is the React project that I submitted for my Phase Two project. 
+- **[Beers Cheers](https://github.com/Amii911/phase-1-project)** | This is the first project I've coded and most proud of. 
+- **[Bloggin BLog](https://github.com/Amii911/bloggin-blog)** |  This is the React project that I submitted for my Phase Two project. 
 
 ## Interests:
 - **Tennis**: I enjoy playing tennis. I played throughout High School and College, **FUN FACT**: I learned shot put in College and still throw today. 
