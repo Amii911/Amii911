@@ -1,5 +1,5 @@
 # Aminat Adebayo 👋
-Hi! I am currently a student at Flatiron School learning JavaScript, React, Python, Flask, HTML, CSS, and SQL. I have a passion for problem-solving, thinking critically, learning, collaborating with other coders,  and spending countless hours debugging.  
+Hi! I am currently a student at Flatiron School learning JavaScript, React, Python, Flask, HTML, CSS, and SQL. I have a passion for problem-solving, thinking critically, learning soemthing new, collaborating with other coders,  and spending countless hours debugging.  
 
 ## Projects:
 - **[Beers Cheers](https://github.com/Amii911/phase-1-project)** | This is the first project I've coded and most proud of. 
