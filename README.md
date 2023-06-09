@@ -3,7 +3,7 @@ Hi! I am currently a student at Flatiron School learning JavaScript, React, Pyth
 
 ## Projects:
 - **[Beers Cheers](https://github.com/Amii911/phase-1-project)** | Built with HTML, CSS, and JavaScript and with a public API. 
-- **[Bloggin BLog](https://github.com/Amii911/bloggin-blog)** | A single page application using create-react-app.
+- **[Bloggin Blog](https://github.com/Amii911/bloggin-blog)** | A single page application using create-react-app.
 
 ## Interests:
 - **Tennis**: I enjoy playing tennis. I played throughout High School and College, **FUN FACT**: I learned shot put in College and still throw today. 
