@@ -2,9 +2,11 @@
 Hi! I am currently a student at Flatiron School learning JavaScript, React, Python, Flask, HTML, CSS, and SQL. I have a passion for problem-solving, thinking critically, learning something new, collaborating with other coders,  and spending countless hours debugging.  
 
 ## Projects:
-- **[Beers Cheers](https://github.com/Amii911/phase-1-project)** | Built with HTML, CSS, and JavaScript and with a public API. 
+- **[Restroom Radar](https://github.com/Amii911/Restroom-Radar)** | An application created with Flask on the backend and React on the front that locates restrooms in NYC.
+- **[TransXceed](https://github.com/Amii911/TransXceed)** | A CLI application with a database created and modified with SQLAlchemy
 - **[Bloggin Blog](https://github.com/Amii911/bloggin-blog)** | A single page application using create-react-app.
-- **[TransXceed](https://github.com/Amii911/TransXceed)** | A CLI application with a database created and modified with SQLAlchemy 
+- **[Beers Cheers](https://github.com/Amii911/phase-1-project)** | Built with HTML, CSS, and JavaScript and with a public API. 
+
 
 ## Interests:
 - **Tennis**: I enjoy playing tennis. I played throughout High School and College and still play today. **FUN FACT**: I learned shot put in College and still throw today. 
