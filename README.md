@@ -1,5 +1,5 @@
 # Aminat Adebayo 👋
-Hi! I am a full stack Software Engineer. I have a passion for problem-solving, thinking critically, egearness to learning something new, collaborating with other coders,  and spending countless hours debugging.  
+Hi! I am a full stack Software Engineer. I have a passion to problem-solve, think critically, eagerness to learn something new, collaborate with other coders, and spend countless hours debugging.  
 
 ## Technologies:
 - Languages: JavaScript · Python · Java · HTML · CSS
