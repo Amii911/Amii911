@@ -1,5 +1,11 @@
 # Aminat Adebayo 👋
-Hi! I am currently a student at Flatiron School learning JavaScript, React, Python, Flask, HTML, CSS, and SQL. I have a passion for problem-solving, thinking critically, learning something new, collaborating with other coders,  and spending countless hours debugging.  
+Hi! I am a full stack Software Engineer. I have a passion for problem-solving, thinking critically, egearness to learning something new, collaborating with other coders,  and spending countless hours debugging.  
+
+## Technologies:
+- Languages: JavaScript · Python · Java · HTML · CSS
+- Frameworks/Libraries: React · Redux · Flask · Bootstrap · RESTful APIs · Tailwind
+- Databases: MySQL · SQLite · SQLAlchemy · PostgreSQL
+- Tools: Git · GitHub · Bcrypt · Render
 
 ## Projects:
 - **[Restroom Radar](https://github.com/Amii911/Restroom-Radar)** | Full stack application that helps end users locate public restrooms in NYC. Application created by designing back-end leveraging Python and API interactions with React on the front-end.
