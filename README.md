@@ -8,7 +8,7 @@ Hi! I am a full stack Software Engineer. I have a passion to problem-solve, thin
 - **Tools**: Git · GitHub · Bcrypt · Render
 
 ## Projects:
-- **[Restroom Radar](https://github.com/Amii911/Restroom-Radar)** | Full stack application that helps end users locate public restrooms in NYC. Application created by designing back-end leveraging Python and API interactions with React on the front-end.
+- **[Restroom Radar]([https://github.com/Amii911/Restroom-Radar](https://github.com/Amii911/Restroom-Radar-NYC))** | Full stack application that helps end users locate public restrooms in NYC. Application created by designing back-end leveraging Python and API interactions with React on the front-end.
 - **[TransXceed](https://github.com/Amii911/TransXceed)** | A CLI application with a database created and modified with SQLAlchemy
 - **[Bloggin Blog](https://github.com/Amii911/bloggin-blog)** | A single page application using create-react-app.
 - **[Beers Cheers](https://github.com/Amii911/phase-1-project)** | Built with HTML, CSS, and JavaScript and with a public API. 
