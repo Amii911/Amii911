@@ -9,7 +9,7 @@ Hi! I am a full stack Software Engineer. I have a passion to problem-solve, thin
 
 ## Projects:
 - **[Restroom Radar](https://github.com/Amii911/Restroom-Radar-NYC)** | Full stack application that helps end users locate public restrooms in NYC. Application created by designing back-end leveraging Python and API interactions with React on the front-end.
--  **[Equity-Ui](https://github.com/femmecubator/equity-ui)** | Component Library contributor for Femmecubator 
+-  **[Equity-UI](https://github.com/femmecubator/equity-ui)** | Component Library contributor for Femmecubator 
 - **[TransXceed](https://github.com/Amii911/TransXceed)** | A CLI application with a database created and modified with SQLAlchemy
 - **[Bloggin Blog](https://github.com/Amii911/bloggin-blog)** | A single page application using create-react-app.
 
