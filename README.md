@@ -5,7 +5,7 @@ Hi! I am a full stack Software Engineer. I have a passion to problem-solve, thin
 - **Languages**: Python · Java · JavaScript · TypeScript · HTML · CSS
 - **Frameworks/Libraries**: React · Redux · Flask · Bootstrap · RESTful APIs · Tailwind
 - **Databases**: MySQL · SQLite · SQLAlchemy · PostgreSQL
-- **Tools**: Git · GitHub · Bcrypt · Render
+- **Tools**: Git · GitHub · Bcrypt · Render · Storybook
 
 ## Projects:
 - **[Restroom Radar](https://github.com/Amii911/Restroom-Radar-NYC)** | Full stack application that helps end users locate public restrooms in NYC. Application created by designing back-end leveraging Python and API interactions with React on the front-end.
