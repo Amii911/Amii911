@@ -15,7 +15,6 @@ Hi! I am a full stack Software Engineer. I have a passion to problem-solve, thin
 
 
 ## Interests:
-- **Tennis**: I enjoy playing tennis. I played throughout High School and College and still play today. 
-- **Reading**: I may not be great with book clubs but I will not deny a good recommended book. I enjoy reading daily.
-- **Meet Ups**:  I like to find random meet-ups in NYC. I assist with organize and hosting Tech Gather NYC.
-- **Foodie**: I enjoy cooking but can't help to share that NYC has a plethora of restaurants and dining that I cannot resist.
+- **Tennis**: I enjoy playing tennis. I once played competitively. 
+- **Reading**: I enjoy receiving book recommendations and engaging in daily reading. 
+- **Meet Ups**:  I like discovering spontaneous meet-ups. I am a co-organizer and co-host of a monthly meet-up called Tech Gather NYC.
